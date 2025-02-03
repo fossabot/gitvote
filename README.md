@@ -1,6 +1,7 @@
 # GitVote
 
 [![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/gitvote)](https://artifacthub.io/packages/helm/gitvote/gitvote)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkomissargithuba%2Fgitvote.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkomissargithuba%2Fgitvote?ref=badge_shield)
 
 **GitVote** is a GitHub application that allows holding a vote on *issues* and *pull requests*.
 
@@ -118,3 +119,6 @@ This project follows the [CNCF Code of Conduct](https://github.com/cncf/foundati
 ## License
 
 GitVote is an Open Source project licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkomissargithuba%2Fgitvote.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkomissargithuba%2Fgitvote?ref=badge_large)
